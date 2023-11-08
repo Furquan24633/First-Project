@@ -1,0 +1,3 @@
+Make a folder and add sub-folder on it like
+css work,img,js etc
+-----------------------------------------
